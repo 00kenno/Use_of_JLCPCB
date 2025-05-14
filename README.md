@@ -1,2 +1,2 @@
 # JLCPCBの利用
-- https://00kenno.github.io/Use_of_JLCPCB/pages/
+- https://00kenno.github.io/Use_of_JLCPCB/
