@@ -2,19 +2,29 @@
   background-color: #EEEEEE;
 }
 body {
-  width: 90%;
+  width: 85%;
   max-width: 500px;
   margin: 2rem auto 2rem auto;
   padding: 1rem;
   border-radius: 1rem;
+  color: #555555;
   background-color: white;
 }
-.contents {
-  width: 95%;
-  margin: auto;
-  padding: 0.5rem;
-  border: solid 3px black;
-  border-radius: 1rem;
+h1 {
+  font-size: xx-large;
+  margin: 1.5rem 0.5rem 1.5rem 0.5rem;
+}
+h2 {
+  font-size: x-large;
+  margin: 1.5rem 0.5rem 0 0.5rem;
+}
+h3 {
+  font-size: large;
+  margin: 1.5rem 0.5rem 0 0.5rem;
+}
+p {
+  font-size: medium;
+  margin: 0.5rem 0.5rem 0 1rem;
 }
 em {
   font-size: 1.3rem;
@@ -25,4 +35,14 @@ img {
   display: block;
   width: 80%;
   margin: auto;
+}
+.contents {
+  width: 95%;
+  margin: 2rem auto 2rem auto;
+  padding: 0.2rem;
+  border: solid 3px #777777;
+  border-radius: 1rem;
+}
+.content {
+  margin: 0 0 0 1rem;
 }
