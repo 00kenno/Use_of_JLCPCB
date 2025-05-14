@@ -1,0 +1,28 @@
+:root {
+  background-color: #EEEEEE;
+}
+body {
+  width: 90%;
+  max-width: 500px;
+  margin: 2rem auto 2rem auto;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: white;
+}
+.contents {
+  width: 95%;
+  margin: auto;
+  padding: 0.5rem;
+  border: solid 3px black;
+  border-radius: 1rem;
+}
+em {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-style: normal;
+}
+img {
+  display: block;
+  width: 80%;
+  margin: auto;
+}
